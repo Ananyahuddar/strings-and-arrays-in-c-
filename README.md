@@ -1,4 +1,4 @@
-# strings-and-arrays-in-c-
+Introduction to Array
 
 Introduction
 
