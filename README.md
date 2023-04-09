@@ -1,6 +1,4 @@
-Introduction to Array
-
-Introduction
+# Introduction to Array
 
 Arrays are used to store multiple values of same datatype in a single variable, instead of declaring separate variables for each value.
 To create an array, define the data type (like int,char) and specify the name of the array followed by square brackets []. Within the square brackets mention the number of elements to be stored.
