@@ -2,9 +2,12 @@
 
 Arrays are used to store multiple values of same datatype in a single variable, instead of declaring separate variables for each value.
 To create an array, define the data type (like int,char) and specify the name of the array followed by square brackets []. Within the square brackets mention the number of elements to be stored.
+
 Example :
 int numbers[5];
+
 char name[20]; 
+
 ![image](https://user-images.githubusercontent.com/125941580/230758078-4956dcdf-18a3-477b-bead-cc12e24fb55f.png)
 
 
