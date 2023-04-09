@@ -12,22 +12,24 @@ char name[20];
 ![image](https://user-images.githubusercontent.com/125941580/230758078-4956dcdf-18a3-477b-bead-cc12e24fb55f.png)
 
 
-Access the Elements of an Array
+# Access the Elements of an Array
 
-To access an array element, refer to its index number.
-The indexing of an array starts from 0 and ends at value one less than the length or total number of elements in the array.
-Syntax: array_name[index_number];
+1.To access an array element, refer to its index number.
+2.The indexing of an array starts from 0 and ends at value one less than the length or total number of elements in the array.
+3.Syntax: 
+
+array_name[index_number];
+
 Example: numbers[3] ---> Access to the element stored at third index position of the array 'numbers'.
-
-Loop Through an Array
+# Loop Through an Array
 
 You can loop through the array elements with the for loop.
 Example:
 
 for(i=0;i<length_of_array-1;i++)
-
 {
-
 printf("%d\n",numbers[i]); //Prints all the elements in array 'numbers'.
-
 }
+
+# For more information :
+https://www.geeksforgeeks.org/what-is-array/
