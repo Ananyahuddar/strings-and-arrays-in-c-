@@ -5,6 +5,8 @@ To create an array, define the data type (like int,char) and specify the name of
 Example :
 int numbers[5];
 char name[20]; 
+![image](https://user-images.githubusercontent.com/125941580/230758078-4956dcdf-18a3-477b-bead-cc12e24fb55f.png)
+
 
 Access the Elements of an Array
 
